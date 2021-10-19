@@ -2,8 +2,8 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
-    <GameDir>C:\Program Files\Epic Games\OuterWilds</GameDir>
-    <OwmlDir>C:\Users\rai\Repos\owml\src\OWML.Launcher\bin\Release\owml</OwmlDir>
-    <ModUniqueName>Raicuparta.ModTemplate</ModUniqueName>
+    <GameDir>C:\Users\ltdc0\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam</GameDir>
+    <OwmlDir>C:\Users\ltdc0\AppData\Roaming\OuterWildsModManager\OWML</OwmlDir>
+    <ModUniqueName>Luana.LowSpecsOW</ModUniqueName>
   </PropertyGroup>
 </Project>

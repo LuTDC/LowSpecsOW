@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Collections;
 
 namespace ModTemplate
 {
@@ -20,6 +21,7 @@ namespace ModTemplate
         {
             // Starting here, you'll have access to OWML's mod helper.
             ModHelper.Console.WriteLine($"My mod {nameof(ModTemplate)} is loaded!", MessageType.Success);
+            QualitySettings.SetQualityLevel(0, true);
         }
     }
 }
