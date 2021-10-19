@@ -1,4 +1,4 @@
-# Low Specs Outer Wild Mod
+# Low Specs Outer Wilds Mod
 
 # Original mod template
 https://github.com/Raicuparta/ow-mod-template#building-the-mod
